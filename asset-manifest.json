@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/draw-flow-list/static/css/main.dbc80710.css",
+    "main.js": "/draw-flow-list/static/js/main.87208080.js",
+    "static/js/787.e83ad380.chunk.js": "/draw-flow-list/static/js/787.e83ad380.chunk.js",
+    "static/media/Logo.svg": "/draw-flow-list/static/media/Logo.99fc7bdc73fb676f957f20495dd90064.svg",
+    "static/media/teach.png": "/draw-flow-list/static/media/teach.5e7f08508b62668dcf09.png",
+    "index.html": "/draw-flow-list/index.html",
+    "static/media/Grab.svg": "/draw-flow-list/static/media/Grab.04361035b35669d331a982dcded49ef9.svg",
+    "static/media/Arrow.svg": "/draw-flow-list/static/media/Arrow.c7ab353bea84cef9fefacfa13bf66dc9.svg",
+    "static/media/Circle.svg": "/draw-flow-list/static/media/Circle.719e3233e6e9b62a211906461e9c467e.svg",
+    "static/media/Font.svg": "/draw-flow-list/static/media/Font.51be68f54044483099c0afb4da067802.svg",
+    "static/media/Square.svg": "/draw-flow-list/static/media/Square.32610015a1aa46cd84cac84021c22d6a.svg",
+    "static/media/Rhombus.svg": "/draw-flow-list/static/media/Rhombus.d6aecdfa6b1f3d30f8583f09aad097a3.svg",
+    "main.dbc80710.css.map": "/draw-flow-list/static/css/main.dbc80710.css.map",
+    "main.87208080.js.map": "/draw-flow-list/static/js/main.87208080.js.map",
+    "787.e83ad380.chunk.js.map": "/draw-flow-list/static/js/787.e83ad380.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc80710.css",
+    "static/js/main.87208080.js"
+  ]
+}
