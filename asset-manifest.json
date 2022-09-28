@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/draw-flowList/static/css/main.36c8db8d.css",
-    "main.js": "/draw-flowList/static/js/main.e300de3e.js",
+    "main.css": "/draw-flowList/static/css/main.1b5ae34a.css",
+    "main.js": "/draw-flowList/static/js/main.9002ee4f.js",
     "static/js/787.e83ad380.chunk.js": "/draw-flowList/static/js/787.e83ad380.chunk.js",
-    "static/media/Logo.svg": "/draw-flowList/static/media/Logo.99fc7bdc73fb676f957f20495dd90064.svg",
+    "static/media/Logo.svg": "/draw-flowList/static/media/Logo.8399bfe0863341097dcd86b9e3e0df94.svg",
     "static/media/teach.png": "/draw-flowList/static/media/teach.5e7f08508b62668dcf09.png",
     "index.html": "/draw-flowList/index.html",
-    "static/media/Grab.svg": "/draw-flowList/static/media/Grab.04361035b35669d331a982dcded49ef9.svg",
-    "static/media/Arrow.svg": "/draw-flowList/static/media/Arrow.c7ab353bea84cef9fefacfa13bf66dc9.svg",
-    "static/media/Circle.svg": "/draw-flowList/static/media/Circle.719e3233e6e9b62a211906461e9c467e.svg",
-    "static/media/Font.svg": "/draw-flowList/static/media/Font.51be68f54044483099c0afb4da067802.svg",
-    "static/media/Square.svg": "/draw-flowList/static/media/Square.32610015a1aa46cd84cac84021c22d6a.svg",
-    "static/media/Rhombus.svg": "/draw-flowList/static/media/Rhombus.d6aecdfa6b1f3d30f8583f09aad097a3.svg",
-    "main.36c8db8d.css.map": "/draw-flowList/static/css/main.36c8db8d.css.map",
-    "main.e300de3e.js.map": "/draw-flowList/static/js/main.e300de3e.js.map",
+    "main.1b5ae34a.css.map": "/draw-flowList/static/css/main.1b5ae34a.css.map",
+    "main.9002ee4f.js.map": "/draw-flowList/static/js/main.9002ee4f.js.map",
     "787.e83ad380.chunk.js.map": "/draw-flowList/static/js/787.e83ad380.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36c8db8d.css",
-    "static/js/main.e300de3e.js"
+    "static/css/main.1b5ae34a.css",
+    "static/js/main.9002ee4f.js"
   ]
 }
